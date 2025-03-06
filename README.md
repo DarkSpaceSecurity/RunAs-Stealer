@@ -3,7 +3,7 @@ RunAs Utility Credential Stealer implementing 3 techniques : Hooking CreateProce
 
 
 ## Usage
-The stealers are running in a while loop (the injector also in Hooking case) in the background, to kill it use Task Manager.   
+The stealers are running in a while loop (the injector also in Hooking case) in the background, to kill them use Task Manager.   
 
 The stolen credentials are written to `C:\Users\<Username>\Desktop\desktop.ini` ADS `log` stream.   
 
