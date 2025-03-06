@@ -1,5 +1,8 @@
 # RunAs-Stealer
 RunAs Utility Credential Stealer implementing 3 techniques : Hooking CreateProcessWithLogonW, Smart Keylogging, Remote Debugging    
+
+### Usage
+
 The stolen credentials are written to `C:\Users\<Username>\Desktop\desktop.ini` ADS `log` stream.   
 To get the credentials type the cmd command:
 ```shell
