@@ -12,6 +12,9 @@ To remove the stored credentials type the powershell command:
 ```powershell
 Remove-Item -Path "C:\Users\d1rk\Desktop\desktop.ini" -Stream "log"
 ```
+refer to the Demo down below for each use case 
+
+
 
 #### Hooking Demo
 https://github.com/user-attachments/assets/5462c211-bb3c-44b9-b147-7129ad6ffed6   
